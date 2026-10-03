@@ -7,9 +7,7 @@ A browser-based poster generator. Pick a style, adjust the settings, and downloa
 - **Bauhaus Grid** — up to 20 columns of tiles drawn from 32 shapes: circles, arches, stripes, eyes, stars, moons, flowers, chevrons, waves, stairs and more
 - **Line Waves** — concentric lines that snake, loop or form a maze
 - **Color Blend** — stacked shapes in smooth gradients (ribbon, tunnel, fan, swirl)
-- **Soft Orb** — blurred light and color fields with optional rays
 - **Stripe Rhythm** — bars, pills and waves
-- **Bold Type** — typographic posters from your own words: stack, letter tiles, wave, circle, repeat, vertical and hero layouts; 17 display typefaces; solid, outline, mixed and split letters; 3D, shadow, echo and highlight effects
 - **Op Art** — stripes that bend around hidden forms
 
 - **Confetti** — scattered Memphis-style outline or solid shapes, with an optional hidden word
@@ -20,6 +18,8 @@ A browser-based poster generator. Pick a style, adjust the settings, and downloa
 - **Micro Characters** — original doodle characters built from 30 body shapes, 31 eye styles, 28 mouths, 30 hats and head extras, 10 accessories, 12 body patterns and 10 emotion marks, in 13 moods and four layouts (sticker grid, crowd, hero, parade)
 
 - **Cyberpunk** — angled circuit bars that bend together at 45°, circuit traces with nodes, chamfered frames, hazard stripes and HUD marks (58 elements), with direction, mirror and an optional label plate
+- **Architecture** — arches, stairs, towers, domes and temples as building icons, street scenes, patchwork tiles, tilted skylines or line-drawn floor plans
+- **Minimalism** — quiet line glyphs, moon-phase sequences, cropped circles, horizons, Swiss blocks, star patterns, cropped letters and modern curves
 - **Mix & Match** — combines the other styles in clean, separate panels (mosaic, feature, columns, rows, grid or porthole layouts), with shared colors, panel grounds and per-panel settings that adapt to each panel's size
 
 ## Features
