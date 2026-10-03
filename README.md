@@ -19,6 +19,7 @@ A browser-based poster generator. Pick a style, adjust the settings, and downloa
 
 - **Micro Characters** — original doodle characters built from 30 body shapes, 31 eye styles, 28 mouths, 30 hats and head extras, 10 accessories, 12 body patterns and 10 emotion marks, in 13 moods and four layouts (sticker grid, crowd, hero, parade)
 
+- **Cyberpunk** — angled circuit bars that bend together at 45°, circuit traces with nodes, chamfered frames, hazard stripes and HUD marks (58 elements), with direction, mirror and an optional label plate
 - **Mix & Match** — combines the other styles in clean, separate panels (mosaic, feature, columns, rows, grid or porthole layouts), with shared colors, panel grounds and per-panel settings that adapt to each panel's size
 
 ## Features
