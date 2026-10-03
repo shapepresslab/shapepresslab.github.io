@@ -18,8 +18,8 @@ A browser-based poster generator. Pick a style, adjust the settings, and downloa
 - **Micro Characters** — original doodle characters built from 30 body shapes, 31 eye styles, 28 mouths, 30 hats and head extras, 10 accessories, 12 body patterns and 10 emotion marks, in 13 moods and four layouts (sticker grid, crowd, hero, parade)
 
 - **Cyberpunk** — angled circuit bars that bend together at 45°, circuit traces with nodes, chamfered frames, hazard stripes and HUD marks (58 elements), with direction, mirror and an optional label plate
-- **Architecture** — arches, stairs, towers, domes and temples as building icons, street scenes, patchwork tiles, tilted skylines or line-drawn floor plans
-- **Minimalism** — quiet line glyphs, moon-phase sequences, cropped circles, horizons, Swiss blocks, star patterns, cropped letters and modern curves
+- **Architecture** — 48 building elements (lighthouses, pagodas, brutalist slabs, bridges, geodesic domes, iso blocks and more) in building icons, street scenes, waterfronts, isometric cities, facades, blueprints, patchwork, tilted skylines or floor plans
+- **Minimalism** — 42 line glyphs and 21 layouts: balance, odd one out, line field, nested squares, duality, one line, long shadows, halftone, gesture, stack, rays, overlap, sequences, horizons, Swiss blocks, star patterns, cropped letters and more
 - **Mix & Match** — combines the other styles in clean, separate panels (mosaic, feature, columns, rows, grid or porthole layouts), with shared colors, panel grounds and per-panel settings that adapt to each panel's size
 
 ## Features
