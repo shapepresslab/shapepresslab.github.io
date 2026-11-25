@@ -27,6 +27,7 @@ A browser-based poster generator. Pick a style, adjust the settings, and downloa
 - **Microchip** — circuit-board art: hero chips, full boards, chip clusters, bus lines, starbursts, circuit shapes, frames and chip icons, with octilinear traces and pads, 10 real PCB board colors, micro labels and numbers, gears, and 9 chip types
 - **Glass Morphism** — frosted glass over real 3D shapes or your own uploaded image (move, zoom, fill or fit), full-bleed with no margin or poster text; liquid edges that melt into the background, color refraction, glass highlight and contrast, frost, glow and color intensity controls, and editable text on the glass
 - **Impossible Geometry** — Escher-style isometric architecture on one block grid (beams, pillars, cubes, arched doorways, stairs, open cubes, stair loops, gates, corners, crosses, platforms, towers, colonnades, ziggurats, square rings), stacked like real buildings and mirrored in 3D, with true Penrose triangles set into the scene or in a centre column
+- **Maximalism** — clashing patterns and layered cut-out shapes with bold outlines and hard shadows: 39 shapes, 42 seamless patterns, collage, patchwork, band and bullseye layouts
 - **Mix & Match** — combines the other styles in clean, separate panels (mosaic, feature, columns, rows, grid or porthole layouts), with shared colors, panel grounds and per-panel settings that adapt to each panel's size; pick the styles at random from your own list, or choose exactly which style goes in each panel
 
 ## Features
